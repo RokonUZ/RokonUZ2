@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I'm A.B.M. Rokon-Uz-Zaman Roman, Python Programmer  with a  B.Sc.  degrees in Physics. A python programmer  who believes in artificial intelligence and prefers the cloud infrastructure for developing software and machine learning based AI tools, following the micro-service architecture.
+
+Rokon-uz-zaman@hotmail.com Twitter LinkedIn LinkedIn Medium 
