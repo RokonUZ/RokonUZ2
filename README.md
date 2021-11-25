@@ -25,34 +25,10 @@ Rokon-uz-zaman@hotmail.com Twitter LinkedIn LinkedIn Medium
 
 Technical Skills: Python · scikit-learn · HTML · CSS
 
-Analytics: IPython · Numpy · Pandas · Matplotlib · Seaborn · PostgreSQL
+Analytics: IPython · Numpy · Pandas · Matplotlib 
 
-telescope I’m currently working on Songkolok
-seedling I’m currently learning Data Science
-dancers I’m looking to collaborate on GitHub
+e I’m currently working 
+I’m currently learning Data Science
+I’m looking to collaborate on GitHub
 github linkedin facebook hackerrank
 
-trophy
-
-Top Langs
-
-GitHub stats
-
-GitHub Activity Graph
-
-GitHub metrics
-
-GitHub streak stats
-
-Profile views
-
-About
-No description or website provided.
-Topics
-github readme
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published
